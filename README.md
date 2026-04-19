@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Andre M. Chang
-- 📷 Multicultural visual storyteller
+
+- 🟦 Visual journalist
+  🟨 Periodista visual
+  🟩 Jornalista visual
+  🟥 視覺記者
+  
 - 🌱 Curious about nature
 - 🌐 Citizen of the world
 - 💻 FOSS enthusiast
