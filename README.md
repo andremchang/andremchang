@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Andre M. Chang
 
-- 🟦 Visual journalist
-  🟨 Periodista visual
-  🟩 Jornalista visual
-  🟥 視覺記者
-  
+- 𝗛𝘂𝗺𝗮𝗻 (𝘏𝘰𝘮𝘰 𝘴𝘢𝘱𝘪𝘦𝘯𝘴)
+- Int’l visual journo
 - 🌱 Curious about nature
 - 🌐 Citizen of the world
 - 💻 FOSS enthusiast
